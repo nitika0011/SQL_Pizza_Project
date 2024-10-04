@@ -1,6 +1,7 @@
 # SQL_Pizza_Project
 
 SQL-Powered Pizza Shop Project
+
 Project Overview
 
 This SQL-based project aims to create a robust data management system for a pizza shop, providing a comprehensive solution for tracking and analyzing various operational aspects. By storing detailed information about orders, customers, ingredients, and sales data, the database empowers store managers to make informed decisions and optimize business performance.
